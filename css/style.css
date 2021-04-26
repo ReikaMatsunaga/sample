@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+
+body{
+  background:black;
+}
+
+h1{
+  text-align:center;
+}
+
+p,ol{
+  color:white;
+}
+
+.emphasis{
+  color:red;
+}
